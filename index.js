@@ -44,6 +44,7 @@ const airDropSol = async () => {
         // Connect to the Devnet and make a wallet from privateKey
         const connection = new Connection(clusterApiUrl("devnet"), "confirmed");
         const myWallet = await Keypair.fromSecretKey(privateKey);
+        // _________________________________________________________________________________________________________
         // Option to Request airdrop of 2 SOL to the created wallet
         //         console.log("Airdropping some SOL to my wallet!");
         //         const fromAirDropSignature = await connection.requestAirdrop(
@@ -77,6 +78,7 @@ const airDropSol = async () => {
     }
 };
 // To run this version, use "node script.js <account_address>"
+// _________________________________________________________________________________________________________
 
 
 
