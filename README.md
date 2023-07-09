@@ -23,7 +23,7 @@ npm install
 
 ### Executing program
 
-Open the file "index.js" where you will find a section of code delimited by a continous line as follows.
+Open the file "index.js" where you will find a section of code delimited within a set of continous lines as follows.
 ```
 // _________________________________________________________________________________________________________
 First block of code...
