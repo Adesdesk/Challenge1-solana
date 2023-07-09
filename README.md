@@ -40,7 +40,7 @@ request airdrop of 2 SOL to the created wallet.
 
 ```
 node index.js
-node script.js <account_address>
+node index.js <account_address>
 ```
 
 ## Help
@@ -52,6 +52,7 @@ node script.js <account_address>
 Contributor(s) names and contact info
 
 Name: Adeola David Adelakun  
+
 Email: aadelakun28@gmail.com
 
 ## License
