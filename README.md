@@ -36,7 +36,7 @@ request airdrop of 2 SOL to the created wallet.
 * The second code block enables you to request airdrop of 2 SOL to your choice wallet, which you may supply as a CLI argument.
 * In terminal, ensure that you are accessing this project folder 
 * Once in, run the following commands, based on which of the blocks of code above you would prefer to run while the other is commented out.
-* The first command applies to having the first block of code active and the second block commented out. Switch commented blocks to run the second block.
+* The first command applies to having the first block of code active and the second block commented out. Switch commented blocks to run the second block, ensuring to replace <account_address> with the address you choose.
 
 ```
 node index.js
