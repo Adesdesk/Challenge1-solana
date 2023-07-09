@@ -1,0 +1,15 @@
+{
+  "name": "challenge1-solana",
+  "version": "1.0.0",
+  "description": "A practice project with Solana Keypairs and Airdrops.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.78.0"
+  }
+}
